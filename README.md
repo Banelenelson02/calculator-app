@@ -2,6 +2,8 @@
 
 A simple calculator web application built with HTML, CSS, and JavaScript.
 
+![Calculator Screenshot]
+(images/calculator-images.jpg)
 ## Features
 - Basic arithmetic operations (+, -, *, /)
 - Clear button (AC) to reset calculations
